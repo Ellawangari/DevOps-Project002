@@ -23,5 +23,22 @@ The first step and others which were similar to Project001.
  ![alt text](https://github.com/Ellawangari/DevOps-Project002/blob/main/Images/nginx2.PNG)
  
  **Step 3: Installing MYSQL ,PHP and configuring nginx to use PHP processor **
+ - Succesfully installed mysql and php.
+ - Created a root web  directory file and open a new configuration file using  nano terminal editor. Though nano was a bit hard to use compared to vi i opted to edit the file using vi editor to add configuration details to my file.
+     ![alt text](https://github.com/Ellawangari/DevOps-Project002/blob/main/Images/php1.PNG)
+ -  Activated my configuration file and tested Nginx  to check for any errors using this command `sudo nginx -t` which was a success.
+      ![alt text](https://github.com/Ellawangari/DevOps-Project002/blob/main/Images/php2.PNG)
+ - Open my browser to check if LEMP stack was fully configured using my public Ip Address.
+     ![alt text](https://github.com/Ellawangari/DevOps-Project002/blob/main/Images/php4.PNG)
+ - Tested php with nginx by creating a info.php file then deleted it.
  
- 
+  
+ **Step 4: Retrieving data from MYSQL database using PHP **
+ - Logged in to mysql console and  created a database(example_database) then created a user(example_user) and granted full privilleges on the database i created.
+ - Created a test table and inserted data to it .
+ - Created a php script to connect to mysql database and queries the contents of my test table.
+   ![alt text](https://github.com/Ellawangari/DevOps-Project002/blob/main/Images/mysqldb2.PNG)
+   ![alt text](https://github.com/Ellawangari/DevOps-Project002/blob/main/Images/mysqldb3.PNG)
+   ![alt text](https://github.com/Ellawangari/DevOps-Project002/blob/main/Images/mysqldb4.PNG)
+   ![alt text](https://github.com/Ellawangari/DevOps-Project002/blob/main/Images/mysqldb5.PNG)
+   ![alt text](https://github.com/Ellawangari/DevOps-Project002/blob/main/Images/mysqldb6.PNG)
