@@ -44,9 +44,10 @@ The first step and others which were similar to Project001.
    ![alt text](https://github.com/Ellawangari/DevOps-Project002/blob/main/Images/mysqldb6.PNG)
    
    
-   This Project was an awesome learning experience as working on it was a bit fast due to earlier gained knowledge.
-   **
-End of DevOps Project 2**
+  ** This Project was an awesome learning experience as working on it was a bit fast due to earlier gained knowledge.**
+ 
+
+**End of DevOps Project 2**
 
 To try this project  [darey.io](https://www.darey.io) have a free trial to which you can practice this project.
 
